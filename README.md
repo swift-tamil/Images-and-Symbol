@@ -1,3 +1,3 @@
 # Images-and-Symbol
 
-![intro](1.mp4)
+![intro](1.gif)
